@@ -166,7 +166,11 @@ def add_rhb(model_input, model_output):
     hemoglobin_exchange = Reaction('EX_rHb') # adding the exchange reaction for haemoglobin
     hemoglobin_exchange.add_metabolites({model.metabolites.rHb_c: -1})
     model.add_reaction(hemoglobin_exchange)
-        
+    
+    medium = model.medium
+    medium['EX_glc__D_e'] = 10
+    model.medium = medium
+    
     return write_sbml_model(model, model_output)
 
 def get_rhb_pathway(model_path):
