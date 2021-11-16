@@ -2,6 +2,7 @@
 
 # 27410 - Group assignment - Group 10 - Saccharomyces cerevisiae Strains for the Production of Heme
 
+### We are working with project 2
 > Dear students, thank you for accepting the group assignment. Please fill in the
 > requested information below and above ([Group Number] and [TITLE]) and remove this quoted part before submission (everything prepended with a >).
 > Please also replace `[PUT-YOUR-REPOSITORY-HERE]` up in the first line 👆 with the name of your repository here on GitHub.
@@ -15,6 +16,12 @@
 ## Project summary (<300 words)
 Describe the overall aim of your project and what you have achieved.
 
+### We are working with project 2
+Increasing expression of heme (and reombinant hemogobin) in yeast
+
+
 ## Project overview
 Describe how your project is organized ...
+
+We are working with project 2
 
