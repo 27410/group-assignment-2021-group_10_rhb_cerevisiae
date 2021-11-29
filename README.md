@@ -14,9 +14,14 @@
 ## Project summary (<300 words)
 > Describe the overall aim of your project and what you have achieved.
 
-The aim of this project was to optimize the production of heterologously expressed human hemoglobin in *Saccharomyces cerevisiae*. The reason for this was to lower the price of recombinant hemoglobin to make it competitive with blood donations, and ultimately ensuring a stable supply of blood for transfusions. 
+The aim of this project was to optimize the production of heterologously expressed human hemoglobin in a microbial host. The potential impact of this was to lower the price of recombinant hemoglobin to make it competitive with blood donations, and ultimately ensure a stable supply of blood for transfusions. For the production of hemoglobin we chose to use *Saccharomyces cerevisiae* as a production host, mainly because it can correct process the hemoglobin. 
 
-The main cell factory engineering strategies applied to reach the aim was gene knockouts based on literature and computational algorithms, as well as identification of up- and downregulation targets. With these strategies we achieved.....
+
+*S. cerevisiae* was modelled with the GSM yeast-8 and the heterologous pathway for hemoglobin was inserted as a “pseudo-reaction”. This was necessary because hemoglobin is a protein, so it could not be captured in a standard metabolic reaction.
+
+The main cell factory engineering strategies applied to reach the aim was gene knockouts based on literature and computational algorithms, as well as identification of over-expression and downregulation targets. Unfortunately, the outcome of these strategies did not provide convincing evidence on how to optimise hemoglobin production in S. cerevisiae. For example, most of the manual knockouts resulted in reduced growth and no improvement in hemoglobin production even though other results had been observed in experimental studies. This highlighted a major limitation of the model, which was that it could not switch to anaerobic growth. In contrast to the manually and computationally derived knockout targets, the FSEOF algorithm did identify over-expression targets with a positive impact on hemoglobin production. This was for example HemB, which could increase hemoglobin production to 81% of its maximim, while reducing growth to 20% of its maximum. 
+
+Overall, it could be concluded that work was required for a successful optimization of hemoglobin production.
 
 
 
