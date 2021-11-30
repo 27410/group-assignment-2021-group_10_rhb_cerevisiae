@@ -3,7 +3,6 @@
 # 27410 - Group assignment - Group 10 - Production of hemoglobin in *Saccharomyces cerevisiae*
 
 ## Project summary
-> Describe the overall aim of your project and what you have achieved.
 
 The aim of this project was to find potential metabolic targets to optimize the production of heterologously expressed human hemoglobin in a microbial host. This can potentialy lower the price of recombinant hemoglobin to make it competitive with blood donations, and ultimately ensure a stable supply of blood for transfusions. For the production of hemoglobin we chose to use *Saccharomyces cerevisiae* as a production host, mainly because of its ability to correcty process hemoglobin. 
 
