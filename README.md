@@ -21,8 +21,8 @@ The repository is set up with a main report dokument detailing the main anaysis 
 * Pictures for the report is found in the pics folder.
 * Requirements.txt contains the needed Python packages needed to reproduce the environment for this work.
 * The Analysis folder contains relevant files cited in the report.  **The most relevant files are listed here.**
-    * analysis_yeast8.ipynb contains an analysis for the main GSMM we investigated in this project
-    * functions.py contains functions we used in different notebook files
-    * The subfolder "models" contains .html files of Memote reports of each GEMM we've looked at
-    * Mutant_regulation_targets2.ipynb identifies overexpression and downregulation targets for the model model_yeast8_rhb.xml
+    * ´analysis_yeast8.ipynb´ contains an analysis for the main GSMM we investigated in this project
+    * ´functions.py´ contains functions we used in different notebook files
+    * The subfolder ´models´ contains .html files of Memote reports of each GEMM we've looked at
+    * ´Mutant_regulation_targets2.ipynb´ identifies overexpression and downregulation targets for the model ´model_yeast8_rhb.xml´
 
