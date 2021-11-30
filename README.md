@@ -20,7 +20,7 @@ The repository is set up with a main report dokument detailing the main anaysis 
 * The main report for this project can be found in the Report.ipynb file. Here the background, analysis and key results are presented. links that references supplementary code are located in the Analysis folder.  Here in debth descriptions and calcuations of the sections can be found.
 * Pictures for the report is found in the pics folder.
 * Requirements.txt contains the needed Python packages needed to reproduce the environment for this work.
-* The Analysis folder contains relevant files cited in the report. The most relevant files are listed here.
+* The Analysis folder contains relevant files cited in the report.  **The most relevant files are listed here.
     * analysis_yeast8.ipynb contains an analysis for the main GSMM we investigated in this project
     * functions.py contains functions we used in different notebook files
     * The subfolder "models" contains .html files of Memote reports of each GEMM we've looked at
