@@ -25,4 +25,5 @@ The repository is set up with a main report dokument detailing the main anaysis 
     * `functions.py` contains functions we used in different .ipynb files
     * The subfolder `models` contains .html files of Memote reports of each GEMM we've looked at
     * `Mutant_regulation_targets2.ipynb` identifies overexpression and downregulation targets for the model `model_yeast8_rhb.xml`
-
+* Other fils that are not relevant for to understand the findings listed in `Report.ipynb`
+    * The subfolder `Analysis/EXTRAS` contains code that turned out to be dead ends. These include an attempt to make changes to the medium `media.ipynb`, and various ways to phase plane analysies on media composition `media_graphs.ipynb`
